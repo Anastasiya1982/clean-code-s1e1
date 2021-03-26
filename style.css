@@ -100,7 +100,6 @@ input[type="text"]:focus {
 
 /* New Task */
 
-
 #new-task {
     width: 334px;
 }
@@ -138,9 +137,9 @@ input[type="text"]:focus {
     width: 224px
 }
 
-/*li > button.delete:hover {*/
-/*    color: #CF2323;*/
-/*}*/
+li > button.delete:hover {
+    color: #CF2323;
+}
 
 .delete img {
     height: 2em;
